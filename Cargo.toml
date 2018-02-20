@@ -1,0 +1,10 @@
+[package]
+name = "tokio-chat"
+version = "0.1.0"
+authors = ["manu"]
+
+[dependencies]
+futures = "0.1.17"
+tokio = "0.1"
+tokio-io = "0.1"
+bytes = "0.4"
